@@ -8,4 +8,9 @@ Language: Python2
 - Tensorflow version 0.8.0
 - Numpy version 1.11.0
 
-## Note
+## Team members
+
+- Falcon Dai (dai@ttic.edu)
+- Steven Basart (xksteven@uchicago.edu)
+- Ali Bashiri (bashiri@ttic.edu)
+- Igor Vasiljevic (ivasiljevic@uchicago.edu)
