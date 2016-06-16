@@ -1,0 +1,11 @@
+Team name: BFChiNet
+
+System: Ubuntu
+Language: Python2
+
+## Dependencies
+
+- Tensorflow version 0.8.0
+- Numpy version 1.11.0
+
+## Note
